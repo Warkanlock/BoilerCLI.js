@@ -1,0 +1,11 @@
+{
+  "name": "CLICommandNodeJs",
+  "version": "1.0.0",
+  "dependencies": {
+    "yargs": "^16.0.3"
+  },
+  "main": "./lib/example.js",
+  "bin": {
+    "hello": "./bin/index.js"
+  }
+}
