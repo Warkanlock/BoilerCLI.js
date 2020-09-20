@@ -4,7 +4,7 @@ Boilerplate for generate your own global commands using Node.JS
 
 ## Install It
 
-Inside the folder, run:
+Inside the folder, run
 
 ```
     npm link
